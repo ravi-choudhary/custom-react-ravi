@@ -1,0 +1,10 @@
+body{margin:0; padding:0;}
+
+.custom-img-container{width:300px; margin:40px auto;}
+.custom-img-container .list{ border:1px solid #ccc; display:flex; clear:both; padding: 20px; margin-bottom:10px;}
+
+.custom-img-container .list .image-panel{ margin:0 10px 0 0;}
+.custom-img-container .list .image-panel img{ height:80px; border:1px solid #ccc; border-radius: 100%;}
+
+.custom-img-container .list .description-panel h1 { font-size:24px; color:red;}
+.custom-img-container .list .description-panel h1 { font-size:14px; color:green;}
