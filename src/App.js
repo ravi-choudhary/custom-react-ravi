@@ -23,8 +23,8 @@ mycustomArrays.forEach(function(x){
 
 console.log(number);
 
-console.log("this is test message do you know about it");
-
+console.log("this is test message do you know about it. do you know me");
+console.log("testing");
 
 
 
